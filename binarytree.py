@@ -1,4 +1,3 @@
-a = []
 class node:                                             #basic structure of binary search tree
     def __init__(self,data = None):
         self.data = data
