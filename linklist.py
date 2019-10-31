@@ -1,8 +1,3 @@
-''' In link list the elements are inserted and deleted dynamically and that is the major advantage of link list. Earlier in languages like c and c++
-we have to specify how many elements we are going to insert and that many elements only we could insert in the list but then link list allowed
-elements to be inserted dynamically.'''
-
-
 class node:
     def __init__(self,data):
         self.data = data
